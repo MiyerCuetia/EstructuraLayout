@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">My Application</string>
+    <!--Alojamiento-->
+    <string name="codigo">Codigo</string>
+    <string name="capacidad">Capacidad</string>
+    <string name="precio">Precio</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="lugar">Lugar</string>
+    <string name="tipo_alojamiento">Tipo alojamiento</string>
+    <string name="crear">Crear</string>
+    <string name="cancelar">Cancelar</string>
+
 </resources>
